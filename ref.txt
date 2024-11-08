@@ -1,4 +1,0 @@
-sandrofisica
-ut3C5OWuJzMRC4Ow
-
-mongodb+srv://sandrofisica:ut3C5OWuJzMRC4Ow@cluster0.jxqkwjj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

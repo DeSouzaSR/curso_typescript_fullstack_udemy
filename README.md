@@ -1,15 +1,36 @@
-# Backend do ZERO:
-## Criando um CRUD com NodeJs, Express e MongoDB
-[Seja Dev](https://www.youtube.com/@SejaDev)
+# Javascript e TypeScript - front-end e back-end (Full Stack)
+## Node, Express, noSQL, React, hooks, Redux, Design Patterns
 
-Repositório de código para video-aula do Seja Dev. O objetivo é criar um CRUD de uma aplicação backend usando NodeJS, Express e MongoDB. Esta aula faz parte da _playlist_ **Mão na Massa** do José Fortes do canal *Seja Dev*.
+Repositório de código para curso da Udemy [Javascript e TypeScript - front-end e back-end (Full Stack)](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado) 
+
+### Tópicos
+
+- JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)
+- TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end)
+- Node, Express, MongoDB e MySQL/MariaDB (Back-end)
+- Webpack e Babel (Front-end)
+- Sistema de login com session (front-end e back-end)
+- Sistema de login com JWT (front-end e back-end)
+- Criação de projetos com Node, Express e EJS (front-end e back-end)
+- Configuração de um servidor Linux para Deploy (Ubuntu Server)
+- Configurações de segurança para o servidor (SSH e TLS - Https)
+- Utilização de noSQL com mongoose (MongoDB)
+- Utilização de SQL com sequelize (MySQL e MariaDB)
+- Criação de API Rest com Node + Express + Sequelize (back-end)
+- React JS com React Hooks + Redux com Redux Saga (front-end)
+- Princípios da programação orientada a objetos
+- Princípios S.O.L.I.D
+- Testes automatizados com o Jest
+- Expressões Regulares (Bônus)
+- Padrões de projeto GOF - Design Patterns (Bônus)
+- NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR)
+- HTML5 e CSS3 (Bônus Extra)
 
 ### Ferramentas
 - Visual Studio Code
 - Node JS
-- [Mão na Massa - 05](https://youtu.be/YeEX1s4M9xg?si=-migb8Kk1f2rJRKi)
-- [Json Placehoder](https://jsonplaceholder.typicode.com/)
-- [Github do autor](https://github.com/josehfortes/backend-express-boilerplat) para baixar arquivos do projeto. 
+- Google Chrome
 
-
-Teste conexão
+### Instrutores:
+- Luiz Otávio Miranda
+- Tales Calogi Malaquias
