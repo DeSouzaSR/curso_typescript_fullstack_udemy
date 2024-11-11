@@ -1,5 +1,5 @@
-let nome = "João";
+let mysystem = "Red Hat 9";
 
 console.log(
-  `O valor da variável nome = ${nome} foi passado para dentre de uma string`
+  `Executando arquivo no sistema = ${mysystem}`
 );
