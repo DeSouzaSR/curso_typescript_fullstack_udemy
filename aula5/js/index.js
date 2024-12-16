@@ -1,5 +1,4 @@
-let mysystem = "Red Hat 9";
+let mysystem = "Ubuntu 24.04";
+console.log(`Executando arquivo no sistema = ${mysystem}`);
 
-console.log(
-  `Executando arquivo no sistema = ${mysystem}`
-);
+

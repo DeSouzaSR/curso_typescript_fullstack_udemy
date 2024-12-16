@@ -1,1 +1,5 @@
-console.log('Meu nome é "Sandro". Estou aprendendo JavaScript às', 10, 'da manhã');
+
+const numero = 10;
+const nome = "Sandro"
+
+console.log(`Meu nome é ${nome}. Estou aprendendo JavaScript às ${numero} da manhã`);
