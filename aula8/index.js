@@ -19,3 +19,6 @@ anoNascimento = 2024 - idade;
 console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} kg, tem ${altura} m e seu IMC é de ${imc}`);
 console.log(`${nome} nasceu em ${anoNascimento}`)
 
+// Imprimeir a variável imc, com duas casas decimas, e o tipo dela
+console.log(`A variável imc é do tipo ${typeof imc} e tem o valor de ${imc.toFixed(2)}`); // 25.92
+
